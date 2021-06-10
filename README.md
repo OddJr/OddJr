@@ -1,5 +1,7 @@
 ### Hello there, I'm Odmar Junior 👋
 
+É o seguinte, um dia eu começo a mexer aqui mas já deixei bonitinho :)
+
 <!--
 **OddJr/OddJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
