@@ -1,7 +1,6 @@
 ### Hello there, I'm Odmar Junior 👋
 
 É o seguinte, um dia eu começo a mexer aqui mas já deixei bonitinho :)
-
 <!--
 **OddJr/OddJr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,6 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+**Social Media:**
+
+[![GitHub](icons/github.png)](https://github.com/OddJr)
+[![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/odmar-junior-4945b51b9/)
+[![Instagram](icons/instagram.png)](https://www.instagram.com/jannyopc/)
+
+
 <h3 align="center">⭐  Statistics</h3>
 
 |GITHUB STATS|LANGUAGES|
