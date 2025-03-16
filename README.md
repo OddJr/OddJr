@@ -31,7 +31,3 @@ Here are some ideas to get you started:
 |GITHUB TROPHIES|
 |:---:|
 |[![trophy](https://github-profile-trophy.vercel.app/?username=OddJr&theme=darkhub&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)|
-
-|Wakatime Stats|
-|:---:|
-|[![Odmar_Junior wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=OddJr&layout=compact)](https://github.com/anuraghazra/github-readme-stats)|
