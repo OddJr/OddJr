@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-**Social Media:**
+**Social:**
 
 [![GitHub](icons/github.png)](https://github.com/OddJr)
 [![LinkedIn](icons/linkedin.png)](https://www.linkedin.com/in/odmar-junior-4945b51b9/)
